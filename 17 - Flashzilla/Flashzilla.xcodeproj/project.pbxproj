@@ -19,6 +19,7 @@
 		4E9309B128059E3700B8408C /* Part6View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9309B028059E3700B8408C /* Part6View.swift */; };
 		4E9309B32805B3B500B8408C /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9309B22805B3B500B8408C /* Card.swift */; };
 		4E9309B52805B47A00B8408C /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9309B42805B47A00B8408C /* CardView.swift */; };
+		4E9309B728070F5E00B8408C /* EditCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9309B628070F5E00B8408C /* EditCards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		4E9309B028059E3700B8408C /* Part6View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Part6View.swift; sourceTree = "<group>"; };
 		4E9309B22805B3B500B8408C /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		4E9309B42805B47A00B8408C /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		4E9309B628070F5E00B8408C /* EditCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditCards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				4E930999280468CF00B8408C /* ContentView.swift */,
 				4E9309B42805B47A00B8408C /* CardView.swift */,
 				4E9309B22805B3B500B8408C /* Card.swift */,
+				4E9309B628070F5E00B8408C /* EditCards.swift */,
 				4E93099B280468D300B8408C /* Assets.xcassets */,
 				4E93099D280468D300B8408C /* Preview Content */,
 			);
@@ -173,6 +176,7 @@
 				4E9309B32805B3B500B8408C /* Card.swift in Sources */,
 				4E9309A72804693F00B8408C /* Part1View.swift in Sources */,
 				4E9309B128059E3700B8408C /* Part6View.swift in Sources */,
+				4E9309B728070F5E00B8408C /* EditCards.swift in Sources */,
 				4E9309B52805B47A00B8408C /* CardView.swift in Sources */,
 				4E93099A280468CF00B8408C /* ContentView.swift in Sources */,
 				4E9309AD2805987900B8408C /* Part4View.swift in Sources */,

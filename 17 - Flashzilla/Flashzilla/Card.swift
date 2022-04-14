@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Card {
+struct Card: Codable {
 	let promt: String
 	let answer: String
 	
